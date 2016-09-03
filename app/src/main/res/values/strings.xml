@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ImageZoomer</string>
+    <string name="clockwise_button_label">+</string>
+    <string name="anticlockwise_button_label">-</string>
+</resources>

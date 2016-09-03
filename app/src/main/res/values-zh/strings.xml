@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ImageRoller</string>
+    <string name="clockwise_button_label">Clockwise</string>
+    <string name="anticlockwise_button_label">Anticlockwise</string>
+</resources>
